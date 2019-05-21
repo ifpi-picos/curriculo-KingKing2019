@@ -1,0 +1,37 @@
+img{
+    max-width: 100%;
+}
+.marcos{
+    border-radius: 100%;
+}
+
+.foto{
+    width: 20%;
+    display:inline-block;
+    vertical-align: middle;
+}
+.descricao{
+    border-top: 1px solid #ccc;
+}
+.descricao, .experiencia, .formacao{
+    border-bottom: 1px solid #ccc;
+}
+.nome{
+    width: 75%;
+    display:inline-block;
+    vertical-align: middle;
+    text-align: center;
+}
+.contatos{
+    display:inline-block;
+    width: 49%;
+    vertical-align: top;
+}
+.rede{
+    text-align: right;
+}
+.icons{
+    display: inline-block;
+    vertical-align: top;
+    width:10%;
+}
